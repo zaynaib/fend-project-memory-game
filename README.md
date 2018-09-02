@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Built With](#Built With)
+* [Technologies](#Technologies)
 * [Installation](#Installation)
 
 ## Instructions
@@ -12,7 +12,7 @@
 * See if the pair matches
 * Keep playing until you find all the matching pairs
 
-## Built With
+## Techologies
 
 * HTML
 * CSS
