@@ -3,18 +3,24 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Contributing](#contributing)
+* [Built With](#Built With)
+* [Installation](#Installation)
 
 ## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+* Click on two cards
+* See if the pair matches
+* Keep playing until you find all the matching pairs
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Built With
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+* HTML
+* CSS
+* Vanilla JavaScript
 
-## Contributing
+## Installation
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Click the download button on the upper right corner or clone the repo
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+`git clone https://github.com/zaynaib/fend-project-memory-game.git`
+
